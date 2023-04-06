@@ -1,0 +1,28 @@
+---
+title: "Reflective Thinking Week 1"
+author: "Haojie Liu"
+date: "2023-04-06"
+output: pdf_document
+---
+
+\begin{flushright}UID: 905943123\end{flushright}
+
+
+# Question 1
+
+### This week, you have seen many Python related tools (command line interface, GitHub, PyCharm, Jupyter) and ChatGPT. What do you envision yourself using (some/none/all of) them beyond this class and how (can you give us an illustration/example) ?
+
+Base on my knowledge and things I learned from the lecture, I feel that python is a great tool for data analysis, writing report or web developing. Understand and be familiar with certain tools will highly improves my efficiency on problem solving. Espacially when we can use github and jupyter notebook as one of our tool to collaborate with teammates. Also, including ChatGPT, they are all great things that can help me to become more creative. For example, two days ago, I started a little project with my friend in UCI. The objective is to build a wheel, that can count the total distance it ran, for my hamster. Just for heads up, he is electrical computer major. We planned for around 6 hours with the entire procedure, and we type our question into ChatGPT it just came out in two seconds. This for real, shocked me.(And we find out that GPT's plan is more organized.). Therefore, I conclude that the tools listed from question can be using in many fields, not limited to data analysis, social science or making a counting wheel for my nice little hamster.
+
+# Question 2
+
+### How does interacting closely with your cohort/classmates (e.g., in teams) enrich your experience in class OR does it devalue your experience? What do you think your future interactions with others (e.g., different classes, internships, employment, graduate school) will be like?
+
+I think it is important to know how to collabrate with someone else, which can be approved base on my experience from design the hamster wheel. When a big problem break into small pieces, its no longer that big. However, I think that the point is to make everyone understand the importance of working as a team. Collaborate can never be done with a single person.
+
+
+
+
+
+
+
