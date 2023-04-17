@@ -1,0 +1,35 @@
+---
+title: "Reflective Thinking Week 2"
+author: "Haojie Liu"
+date: "2023-04-17"
+output: pdf_document
+---
+
+## One of the questions I was asked the most this week was “what is the difference between Data Theory and Data Science?” I have my thoughts, but that questions is best answered by you. So for this question please reflect on the following:
+### • What do you think the difference is? There is no right or wrong answer here.
+### • and how do you think graduating (yes, you will all graduate) a Data Theory major will fit into your future plans/career goals?
+
+Since statistic department just changed their name into data Science, I would love to say that it is a great decision for UCLA. I start with Data theory major when I was a freshmen and end up with trying to change into statistics. There are too much of theoretical materials in Data theory, especially on math. However, I don't agree with it to have all these kind of math theory as one of the necessities for data analysts. It is not that I do not agree with data people have no need with math, but spend too much time on things that are not useful is not worth it. On the other hand, I would like to take Stats21 even it is not my major requirement because this class will enhance my skill of data analysis, also meet new people and collaborate with them. Therefore, my answer of the second question is that, Data Theory major is a great choice for my future, but now I have Data Science instead.
+
+
+## A former student was sharing a recent interview experience with me and the student was asked “suppose you have a large list of words (strings) and you have been asked to remove all of the duplicates” how would you program a solution in Python?
+
+### The student was not asked to program anything though, the student was asked to describe the steps to the solution verbally - similar to using Pseudocode to describe a programming idea. If you don’t know – here’s ChatGPT on it:
+
+![]("chat.png")
+
+### Anyhow... the student got the job. My question to you is not to answer the programming question - but instead to try to articulate your immediate thoughts if you were asked a similar question in an interview situation? For example, do you immediately start talking? Do you take a moment to try to solve it? Do you want to start typing? Do you get frightened? Do you laugh and say “that is so easy?” I don’t publish your answers anywhere ever. Write as little or as much as you wish, I will read it.
+
+
+First of all, I will ask for a minute to think out a basic structure, for example the number of variables I will declare, or loop I will use. After that, I will start build and present my logic to the interviewer.
+
+
+
+
+
+
+
+
+
+
+
