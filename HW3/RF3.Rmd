@@ -1,0 +1,42 @@
+---
+title: "Reflective Thinking Week 3"
+author: "Haojie Liu"
+date: "2023-04-21"
+output: pdf_document
+---
+
+## Question 1
+
+### I know it seems like a waste of time to ask you to write functions like “no dups” (see the last problem in homework 3) when you know (or will learn) such a function exists in other Python packages/libraries and simply requires an import.
+
+### I would like you to reflect upon some of the reasons why knowing how to write your own functions can be beneficial. I’ll start you with an example - when you know how to write your own functions, you can customize it to meet your specific requirements. So for example, we can add “print( )” to a function to make the output clearer.
+
+*I used do this kind of exercises when I was in cs31, this is of course a great way to let students like me who doesn't feel comfortable with programming which can help us to understand some basic structure about function and logic. When I saying basic, it doesn't means that it is simple, but necessary for us to understand and realize how computer will process my code. This kind of knowledge is required for a programmer, because you have to have the ability to build up your own tools.*
+
+
+## Question 2 - extending last week
+
+### A former student was sharing a recent interview experience with me and the student was asked “suppose you have a large list of words (strings) and you have been asked to remove all of the duplicates how do you program a solution in Python?”
+
+### My question to you this week is to film yourself answering the question - then you view your recording of you. I don’t need you to upload the recording, instead, I’d like you to evaluate your answer from the point of view of an interviewer. This will be the answer to Question 2 this week. Two things to include in your answer:
+
+### • If you could suggest to yourself something that could be changed/improved, what would that be?
+
+### • What did you like best about your answer? For example, maybe you like how confident you appear.
+
+### I don’t publish your answers anywhere ever. Write as little or as much as you wish, I will read it.
+
+
+*I seems a little nervous in the video, and I think it will be much more better if I talk slower when next time I'm doing it. If there is one thing that will make me like my interview video, it will be the code I wrote is 100% correct, base on my check cases.*
+
+
+
+
+
+
+
+
+
+
+
+
