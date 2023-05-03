@@ -1,0 +1,17 @@
+---
+title: "Reflective Thinking Week 4"
+author: "Haojie Liu"
+date: "2023-05-03"
+output: pdf_document
+---
+
+# Question 1
+## There is only one question and your answer depends on whether you took the midterm or participated in DataFest (so please don’t submit an answer before those have completed, I’ll kick it back and tell you to rewrite it)
+
+### If you attended DataFest (participant or volunteer) please share what you learned or observed during your time there. Some things you might consider – overall impressions of the event, the attitudes of people you met, the organizational features.
+
+### If you took the midterm please share your thoughts on the value of examinations in your education. If you aren’t thinking about Stats 21, start by writing something like ”in a class I took...” Some things you might consider – do you learn anything from your exams? do exams correctly gauge your abilities? are exams given too much weight at the university?
+
+First of all, I did attend DataFest and I need to mention that this is the first time in my life that I attend a competition in Data/Statistic field. I worked hard for three days and I went home around 3am in the morning on the first day. I can even feel the pain until right now, and I have to say that this is a great experience even I never got in to the second round. DataFest make me begin to feel more confidence about myself at data analysis(even I didn't get the honor), and realize that I need to get into more competition or things like this to build up my ability to solve a case. 
+
+Also, and always, come up with a strong and diverse team is never a bad idea. It is not like everyone inside the team needs to be a expert in data or programming, I need members who can give us idea in different sort of field, for example like social science or economics. All of those knowledges will help us to build our thesis even more stronger. 
