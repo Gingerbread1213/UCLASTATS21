@@ -1,0 +1,20 @@
+---
+title: "Reflective Thinking Week 8"
+author: "Haojie Liu"
+date: "2023-05-30"
+output: pdf_document
+---
+
+## Question 1
+
+### Believe it or not, “soft skills” or non-technical skills have value for STEM majors in addition to technical skills. Given this short list, choose the one that you believe you are strongest (or feel most confident) and please give us a brief example which demonstrates or illustrates your proficiency.
+
+Among all of the "soft skills" that are listed, I believe that the one I'm strongest at is "Curious". That might also be why I choose data science as my major and career. I feel that I need to understand everything a little from the world. Therefore, I always like to read things in many different fields, even that I will never be a expert there. Also, I always have some crazy ideas that comes up to my mind, and when I discuss it with my friends they all feel ridiculous about it. 
+
+
+## Question 2
+
+
+### Referring to the list of “soft skills” above, choose the one that you believe you are weakest (or feel least confident) and please give us a brief example which demonstrates or illustrates your concern.
+
+I think, and I believe that Ethical is one of my weakest skill. Sometimes, I believe in what I think is true about the fact, and make the experiment result somewhere close to that spots, which is totally a mistake and I do not encourage anyone who study in science to have this kind of problem. 
